@@ -1,0 +1,1 @@
+https://github.com/dmilicic/Android-Clean-Boilerplate
